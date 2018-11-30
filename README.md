@@ -1,2 +1,2 @@
 # standalone-nepali-transliteration
-My naive approach to standalone nepali transliteration in javascript
+My naive approach to standalone nepali transliteration in javascript `under-development`
